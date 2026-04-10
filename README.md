@@ -1,2 +1,2 @@
-**#Data Visualization and Storytelling**
+# Data Visualization and Storytelling
 # PowerBi_repo
